@@ -15,9 +15,9 @@ var PROJECTS =[
     ,
     {
         img:"portfolio.png",
-        tittle:"My portfolio website",
-        description:"about my project",
-        link: "D:\Learning is a long Jurney\JavaScript\WebsiteProject\index.html"
+        tittle:"My Portfolio Website",
+        description:"using HTML, CSS ,and Javascript to build my website",
+        link: "D:\Learning is a long Jurney\JavaScript\WebsiteProject\index.html"//change to github website link
     }
     ,
     {
